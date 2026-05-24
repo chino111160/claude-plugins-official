@@ -1,12 +1,12 @@
 ---
-name: example-skill
+name: mi-primera-skill
 description: This skill should be used when the user asks to "demonstrate skills", "show skill format", "create a skill template", or discusses skill development patterns. Provides a reference template for creating Claude Code plugin skills.
 version: 1.0.0
 ---
 
-# Example Skill
+# Mi Primera Skill
 
-This skill demonstrates the structure and format for Claude Code plugin skills.
+Esta es la primera skill creada por chino 111160.
 
 ## Overview
 
